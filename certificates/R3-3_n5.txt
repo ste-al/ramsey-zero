@@ -1,0 +1,6 @@
+# {"n": 5, "ks": [3, 3], "format": "row i, column j = colour of edge ij ('-' on diagonal)", "certifies": "R(3,3) >= 6", "route": "circ5 (complete search)", "seconds": 0.0, "clique_numbers": [2, 2], "found": "2026-11-11 01:38:19", "graph6": "Dhc"}
+-0110
+0-011
+10-01
+110-0
+0110-

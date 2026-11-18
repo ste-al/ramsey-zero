@@ -1,0 +1,9 @@
+# {"n": 8, "ks": [3, 4], "format": "row i, column j = colour of edge ij ('-' on diagonal)", "certifies": "R(3,4) >= 9", "route": "weak:Z2+0", "seconds": 0.001, "clique_numbers": [2, 3], "found": "2026-11-11 01:37:13", "graph6": "G]QGhS"}
+-1001011
+1-000111
+00-11110
+001-1101
+1011-010
+01110-01
+111010-0
+1101010-

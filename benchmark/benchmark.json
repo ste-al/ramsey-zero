@@ -1,0 +1,250 @@
+[
+ {
+  "ks": [
+   3,
+   3
+  ],
+  "n": 5,
+  "note": "exact: R(3,3) = 6",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 0.0,
+  "max_s": 0.0,
+  "routes": [
+   "circ5"
+  ]
+ },
+ {
+  "ks": [
+   3,
+   4
+  ],
+  "n": 8,
+  "note": "exact: R(3,4) = 9",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 0.0,
+  "max_s": 0.0,
+  "routes": [
+   "weak:Z2+0"
+  ]
+ },
+ {
+  "ks": [
+   3,
+   5
+  ],
+  "n": 13,
+  "note": "exact: R(3,5) = 14",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 0.0,
+  "max_s": 0.0,
+  "routes": [
+   "weak:Z2+1"
+  ]
+ },
+ {
+  "ks": [
+   3,
+   6
+  ],
+  "n": 17,
+  "note": "exact: R(3,6) = 18",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 0.0,
+  "max_s": 0.0,
+  "routes": [
+   "weak:Z2+1"
+  ]
+ },
+ {
+  "ks": [
+   3,
+   7
+  ],
+  "n": 22,
+  "note": "exact: R(3,7) = 23",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 0.01,
+  "max_s": 0.02,
+  "routes": [
+   "weak:Z2+0"
+  ]
+ },
+ {
+  "ks": [
+   3,
+   8
+  ],
+  "n": 27,
+  "note": "exact: R(3,8) = 28",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 0.83,
+  "max_s": 0.91,
+  "routes": [
+   "ascend",
+   "full",
+   "weak:Z2+1"
+  ]
+ },
+ {
+  "ks": [
+   3,
+   9
+  ],
+  "n": 35,
+  "note": "exact: R(3,9) = 36",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 0.07,
+  "max_s": 0.07,
+  "routes": [
+   "circ35*11"
+  ]
+ },
+ {
+  "ks": [
+   4,
+   4
+  ],
+  "n": 17,
+  "note": "exact: R(4,4) = 18",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 0.0,
+  "max_s": 0.0,
+  "routes": [
+   "circ17*2"
+  ]
+ },
+ {
+  "ks": [
+   4,
+   5
+  ],
+  "n": 24,
+  "note": "exact: R(4,5) = 25",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 0.0,
+  "max_s": 0.1,
+  "routes": [
+   "circ24",
+   "weak:Z2+0"
+  ]
+ },
+ {
+  "ks": [
+   3,
+   3,
+   3
+  ],
+  "n": 16,
+  "note": "exact: R(3,3,3) = 17",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 0.0,
+  "max_s": 0.0,
+  "routes": [
+   "GF16/3"
+  ]
+ },
+ {
+  "ks": [
+   3,
+   3,
+   4
+  ],
+  "n": 29,
+  "note": "exact: R(3,3,4) = 30",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 0.07,
+  "max_s": 0.07,
+  "routes": [
+   "circ29*12"
+  ]
+ },
+ {
+  "ks": [
+   5,
+   5
+  ],
+  "n": 42,
+  "note": "record: 43 <= R(5,5) <= 46",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 1.53,
+  "max_s": 1.53,
+  "routes": [
+   "descend+1"
+  ]
+ },
+ {
+  "ks": [
+   4,
+   7
+  ],
+  "n": 48,
+  "note": "record: 49 <= R(4,7) <= 61",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 3.52,
+  "max_s": 5.62,
+  "routes": [
+   "descend+0"
+  ]
+ },
+ {
+  "ks": [
+   6,
+   6
+  ],
+  "n": 101,
+  "note": "record: 102 <= R(6,6) <= 165",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 0.15,
+  "max_s": 0.16,
+  "routes": [
+   "circ101*4"
+  ]
+ },
+ {
+  "ks": [
+   3,
+   3,
+   3,
+   3
+  ],
+  "n": 50,
+  "note": "record: 51 <= R(3,3,3,3) <= 62",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 3.92,
+  "max_s": 23.27,
+  "routes": [
+   "3xZ4xZ4+2"
+  ]
+ },
+ {
+  "ks": [
+   4,
+   4,
+   4
+  ],
+  "n": 127,
+  "note": "record: 128 <= R(4,4,4) <= 230",
+  "solved": "3/3",
+  "cap_s": 120.0,
+  "median_s": 0.16,
+  "max_s": 0.16,
+  "routes": [
+   "circ127*5"
+  ]
+ }
+]

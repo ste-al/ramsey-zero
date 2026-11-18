@@ -1,0 +1,14 @@
+# compiled C core (built automatically on first import)
+*.so
+*.dll
+*.pyd
+*.dylib
+*.o
+*.tmp*
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+# your own runs: solve/climb/bench write here
+results/
+out/
